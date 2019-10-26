@@ -63,5 +63,3 @@ with open('dataset.csv', 'w') as out:
     out.write(str(make_dataset(list_stores, list_productsLinks)))
 
 
-#ID: 945084edff1040a28d0b8462a5d43718
-#Пароль: 36ef9f00a9d143b1b8605bd93c2047bd
